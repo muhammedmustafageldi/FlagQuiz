@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bevan</item>
+        <item>@font/coiny</item>
+        <item>@font/concert_one</item>
+        <item>@font/fruktur</item>
+        <item>@font/hanalei_fill</item>
+    </array>
+</resources>
